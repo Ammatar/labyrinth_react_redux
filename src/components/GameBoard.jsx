@@ -19,7 +19,7 @@ const GameBoard = () => {
   }, []);
   return (
     <div>
-      <h2>Labirynth game</h2>
+      <h2>Labyrinth game</h2>
       <div className='gameBoard__container'>
         <div className='gameBoard__board__vertical_header'>
           <div>A</div>

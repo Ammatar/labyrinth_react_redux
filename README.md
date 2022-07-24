@@ -1,4 +1,4 @@
-# Labirynth game
+# Labyrinth game
 
 ### `npm start`
 
